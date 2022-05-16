@@ -12,6 +12,14 @@
     "deep",
     "copy"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangshuaishuai123/deepCopy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangshuaishuai123/deepCopy/issues"
+  },
+  "homepage": "https://github.com/wangshuaishuai123/deepCopy#readme",
   "author": "chrisWang",
   "license": "ISC"
 }
