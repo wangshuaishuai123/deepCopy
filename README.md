@@ -13,7 +13,7 @@ yarn add npm_deep_copy
 
 //or
 
-npm install npm_deep_copy`
+npm install npm_deep_copy
 
 
 ```
