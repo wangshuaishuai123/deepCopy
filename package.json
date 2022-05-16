@@ -1,0 +1,17 @@
+{
+  "name": "deep_copy",
+  "version": "1.0.0",
+  "description": "this is a deepcopy function",
+  "main": "deepcopy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "深拷贝",
+    "deepcopy",
+    "deep",
+    "copy"
+  ],
+  "author": "chrisWang",
+  "license": "ISC"
+}
