@@ -1,5 +1,5 @@
 {
-  "name": "deep_copy",
+  "name": "npm_deep_copy",
   "version": "1.0.0",
   "description": "this is a deepcopy function",
   "main": "deepcopy.js",
