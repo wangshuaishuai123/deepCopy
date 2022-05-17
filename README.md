@@ -23,7 +23,7 @@ npm install npm_deep_copy
 ```js
 import { clone } from "npm_deep_copy";
 let obj = {
-  name: "zhufeng",
+  name: "shuaishuai",
   age: 12,
   boo: true,
   n: null,
